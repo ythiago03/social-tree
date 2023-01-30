@@ -31,7 +31,8 @@ body{
     width: 100%;
     min-height: 100vh;
     height: 100%;
-    padding-top: 4.5rem;
+    padding: 1rem;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
