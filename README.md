@@ -2,8 +2,9 @@
 <h1 align="center"> Social Tree </h1>
 
 <p align="center"> Página com uma lista de links.</p>
-
-<img src="https://user-images.githubusercontent.com/" alt="Capa do projeto">
+<!--https://user-images.githubusercontent.com/-->
+<img src="./images
+/instagram.svg" alt="Capa do projeto">
 
 <p align="center">
     <a href="#sobre">sobre</a> •
