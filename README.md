@@ -3,8 +3,9 @@
 
 <p align="center"> Página com uma lista de links.</p>
 <!--https://user-images.githubusercontent.com/-->
-<img src="./images
-/instagram.svg" alt="Capa do projeto">
+
+![Project Image](./images/Social%20tree.png)
+
 
 <p align="center">
     <a href="#sobre">sobre</a> •
