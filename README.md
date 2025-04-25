@@ -15,7 +15,7 @@
 
 
 
-<p align="center">Você pode checar o projeto<a href="https://ythiago03-links.netlify.app/"> clicando aqui.</a></p>
+<p align="center">Você pode checar o projeto<a href="https://links.thiagof.com"> clicando aqui.</a></p>
 
 # Sobre
 
